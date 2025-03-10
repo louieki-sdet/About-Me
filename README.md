@@ -1,4 +1,4 @@
-# Keisha L. Avery, PH.D.
+# 🍄 Keisha L. Avery, PH.D. 🍄
 
 🚀 **SDET | Test Automation | AI Enthusiast**
 
