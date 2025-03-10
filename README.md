@@ -1,4 +1,6 @@
-# 🍄 Keisha L. Avery, PH.D. 
+![Hello there!](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
+# 🍄Keisha L. Avery, PH.D. 
 
 ### 🚀 **SDET | Test Automation | AI Enthusiast**
 
@@ -12,5 +14,6 @@
 
 🎮 Advocate for **Therapeutic gaming & safe spaces for women & girl gamers**
 
+# 🖥️ Tech Stack
 
 
