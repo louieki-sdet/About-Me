@@ -12,7 +12,7 @@
 
 🎮 Advocate for **Therapeutic gaming & safe spaces for women & girl gamers**
 
-# 🖥️ Tech Stack & Tools
+## 🖥️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
@@ -28,5 +28,16 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
+## 🔍 What I'm Working On:
+- Enahncing **test automation frameworks** with Playwright & JavaScript
+- Exploring **AI-driven testing strategies** for next-gen software quality
+- Building a **professional portfolio** to showcase my expertise in SDET & ML
+
+## 📃 Certifications
+**SheCodes Basics – Frontend Development** (Certification ID: a6992fa9d8869f2123ba0064baf333f0)
+**SheCodes Add-On – Web Development** (Certification ID: a1b30e54d5eaa74b299adcfb5d67ab67)
+
+## 💡 Let's Connect!
+📌 **LinkedIn:** https://www.linkedin.com/in/keisha-avery/
 
 
